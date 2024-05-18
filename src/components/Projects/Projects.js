@@ -6,7 +6,7 @@ import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import vehicle from "../../Assets/Projects/icons8-tracking-100.png";  
 import editor from "../../Assets/Projects/codeEditor.png";
-import suicide from "../../Assets/Projects/icons8-real-estate-16.png";
+import suicide from "../../Assets/Projects/icons8-real-estate-100.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
