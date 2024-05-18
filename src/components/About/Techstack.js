@@ -8,7 +8,7 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
-  DiJava,
+  DiMysql,
 } from "react-icons/di";
 import {
   SiRedis,
@@ -23,7 +23,7 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+         <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
@@ -59,10 +59,10 @@ function Techstack() {
         <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+      <CgCPlusPlus />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+        <DiMysql />
       </Col>
     </Row>
   );
