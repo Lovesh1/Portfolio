@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Emotion Detection"
               description="Emotion detection using CNN and transfer Learning, you can detect from image wheter a person is sad, happy, angry, fear and many other emotions"
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              // ghLink="https://github.com/soumyajit4419/Chatify"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Cat and Dog Classifier"
               description="Build a cat and dog classifier, you can detect whether an image is dog or cat."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/Lovesh1/CatnDog-Classifier"
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Student Mental Health Prediction"
               description="Using Random Forest Classifier to predict the mental health of a student based on the features."
-              ghLink="https://github.com/soumyajit4419/Editor.io"             
+              ghLink="https://github.com/Lovesh1/Student-Mental-Health"             
             />
           </Col>
 
